@@ -38,5 +38,20 @@ This project delves into two fascinating aspects of audio signal processing: DTM
 * Explore the acoustic characteristics of phonemes.
 * Apply knowledge to real-world scenarios.
 
+**Libraries and Language Used**
+
+**Libraries:**
+
+* librosa: For audio signal processing.
+* matplotlib: For plotting visualizations.
+* numpy: For numerical computations.
+* IPython.display: For audio playback.
+* urllib.request: For accessing content.
+* scipy.fftpack: For discrete Fourier transforms.
+  
+**Language:**
+
+Python
+
 Feel free to explore the code, experiment with the provided functions, and enhance your understanding of audio signals and phonetics!
 
